@@ -1,0 +1,20 @@
+{
+	"short_name": "CyberSoc",
+	"name": "CyberSoc | Cardiff University's Cyber Society",
+	"description": "Join CyberSoc today, and you will be rubbing shoulders with tremendously passionate students and industry players who are curious about cyber and want to make a difference.",
+	"categories": ["education", "events", "networking", "social"],
+	"icons":[
+		{
+			"src": "/cybersoc.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		}
+	],
+	"shortcuts": [],
+	"start_url": "/",
+	"scope": "/",
+	"theme_color": "#000",
+	"background_color": "#00BBFF",
+	"display": "standalone",
+	"orientation": "portrait"
+}

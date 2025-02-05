@@ -1,0 +1,26 @@
+
+{% assign committee = site.data.committee | where: "year", include.year %}
+
+<section class="container-x1 px-5 py-4">
+    <div class="row d-flex justify-content-center">
+        
+        {% for member in committee %}
+            <div class="col-6 col-sm-4 col-md-3 text-center team-card">
+                <img src="{{ member.image }}" alt="Image of {{ member.name }}" />
+    
+                {% if member.linkedin %}
+                    <a href="{{ member.linkedin }}" rel="noopener">
+                {% endif %}
+                <h6 class="h5">{{ member.name }}</h6>
+                {% if member.linkedin %}
+                </a>
+                {% endif %}
+                {% if member.website %}
+                    <a href="{{ member.website }}" rel="noopener"><i class="bi bi-link-45deg"></i></a><br>
+                {% endif %}
+                <span class="team-position">{{ member.position }}</span>
+    
+            </div>
+        {% endfor %}
+        </div>
+    </section>

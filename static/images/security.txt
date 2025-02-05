@@ -1,0 +1,5 @@
+# If you have found a security issue with the CyberSoc website, please contact us via:
+Contact: cybersoc@cardiff.ac.uk
+
+Preferred-Languages: en
+

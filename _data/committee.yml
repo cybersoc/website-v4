@@ -1,0 +1,101 @@
+
+- name: Morgan Plumstead
+  position: President
+  image: /static/images/committee/2023/morgan.jpg
+  email: president@cybersoc.wales
+  linkedin: https://www.linkedin.com/in/morgan-plumstead/
+  year: 2023
+- name: Henrik Vlijter
+  position: Vice-President
+  email: vice-president@cybersoc.wales
+  image: /static/images/committee/2023/henrik.jpg
+  linkedin: https://www.linkedin.com/in/henrikvlijter/
+  year: 2023
+- name: Igor Grindley
+  position: Treasurer
+  image: /static/images/committee/2023/Igor.jpeg
+  email: treasurer@cybersoc.wales
+  linkedin: https://www.linkedin.com/in/igor-grindley/
+  year: 2023
+- name: Eleanor Dew
+  position: Secretary
+  image: /static/images/committee/2023/eleanor.jpeg
+  email: secretary@cybersoc.wales
+  linkedin: https://www.linkedin.com/in/eleanor-dew-091469223/
+  year: 2023
+- name: Daryl Johns
+  position: Social Secretary
+  image: /static/images/committee/2023/daryl.jpg
+  email: social-secretary@cybersoc.wales
+  linkedin: https://www.linkedin.com/in/daryl-johns/
+  year: 2023
+- name: Robyn Mcneill
+  position: President
+  image: /static/images/committee/2022/robyn.jpg
+  linkedin: https://www.linkedin.com/in/jake-mcneill/
+  website: https://absolutedouble.co.uk
+  year: 2022
+- name: Mahrukh Zulfiqar
+  position: Vice-President
+  image: /static/images/committee/2022/mahrukh.png
+  linkedin: https://www.linkedin.com/in/mahrukhzulfiqar/
+  year: 2022
+- name: Archie Wilkins
+  position: Vice-President
+  image: /static/images/committee/2022/archie.jpg
+  linkedin: https://www.linkedin.com/in/archie-wilkins/
+  year: 2022
+- name: Samuel Toland
+  position: Engagement Officer
+  image: /static/images/committee/2022/sam.png
+  linkedin: https://www.linkedin.com/in/samuel-toland/
+  year: 2022
+- name: Morgan Plumstead
+  position: Treasurer
+  image: /static/images/committee/2022/morgan.jpg
+  linkedin: https://www.linkedin.com/in/morgan-plumstead/
+  year: 2022
+- name: Emma Jenkins
+  position: Social Secretary
+  image: /static/images/committee/2022/emma.jpg
+  linkedin: https://www.linkedin.com/in/emma-jenkins-0b0b8a235/
+  year: 2022
+- name: Stella Bejide
+  position: Secretary
+  image: /static/images/committee/2022/stella.jpg
+  linkedin: https://www.linkedin.com/in/stella-bejide-a6b57514a
+  year: 2022
+- name: Jack Le Bon
+  position: President
+  image: /static/images/committee/2021/Jack.jpg
+  linkedin: https://uk.linkedin.com/in/jack-le-bon
+  year: 2021
+- name: Alex Hayman
+  position: Secretary
+  image: /static/images/committee/2021/Alex.jpg
+  linkedin: https://www.linkedin.com/in/alex-hayman-/
+  year: 2021
+- name: Laura Choy
+  position: Treasurer
+  image: /static/images/committee/2021/Laura.jpg
+  year: 2021
+- name: Louis Davies-Cren
+  position: Engagement Officer
+  image: /static/images/committee/2021/Louis.jpg
+  linkedin: https://www.linkedin.com/in/louisdc/
+  year: 2021
+- name: Stella Bejide
+  position: Secretary
+  image: /static/images/committee/2022/stella.jpg
+  linkedin: https://www.linkedin.com/in/stella-bejide-a6b57514a
+  year: 2021
+- name: Ryan Davis
+  position: Communications Manager
+  image: /static/images/committee/2021/Ryan.jpg
+  linkedin: https://www.linkedin.com/in/ryandavies15/
+  year: 2021
+- name: Kriti Shewaramani
+  position: Wellbeing and Diversity Manager
+  image: /static/images/committee/2021/Kriti.jpg
+  linkedin: https://www.linkedin.com/in/kritishewaramani/
+  year: 2021

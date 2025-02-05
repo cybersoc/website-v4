@@ -1,0 +1,17 @@
+<header class="container-fluid g-0">
+	<div class="p-5 text-center bg-image d-flex justify-content-center align-items-center bg-hero"
+		 style="background-image: url({{ include.img }})">
+		<div class="mask p-3 w-50" style="background-color: rgba(0, 0, 0, 0.6);">
+			<div class="d-flex justify-content-center align-items-center h-100">
+				<div class="text-white">
+					
+					<h1 class="mb-3">{{ include.heading }}</h1>
+
+					{% if include.subheading %}
+					<h2 class="h5 mb-3">{{ include.subheading }}</h2>
+					{% endif %}
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
