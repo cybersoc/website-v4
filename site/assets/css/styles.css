@@ -1,0 +1,178 @@
+@charset "utf-8";
+:root {
+	--website-white: #eee;
+	--website-blue: #00BBFF;
+	--website-red: #F26865;
+	--website-green: #00AE75;
+	--website-yellow: #FBBC05;
+	--previous-event-image: black;
+}
+
+body, html {
+	margin: 0;
+	padding: 0;
+	font-family: Raleway, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Inter, sans-serif;
+}
+
+ul {
+	list-style-type: none !important;
+}
+
+a.link-cybersoc, a.link-cybersoc:visited {
+	text-decoration: none;
+	font-size: 1.1rem;
+	transition: .2s ease-in-out color;
+    color: var(--website-white) !important;
+}
+
+a.link-cybersoc:hover {
+    color: var(--website-blue) !important;
+    cursor: pointer;
+}
+
+.social-discord-link a:hover {
+	color: #7289da !important;
+}
+
+.social-facebook-link a:hover {
+	color: #4267b2 !important;
+}
+
+.social-instagram-link a:hover {
+	color: #e4346d !important;
+}
+
+.social-twitter-link a:hover {
+	color: rgb(29, 161, 242) !important;
+}
+
+.social-linkedin-link a:hover {
+	color: #0a66c2 !important;
+}
+
+.social-youtube-link a:hover {
+	color: #c00 !important;
+}
+
+.su-link a:hover {
+	color: #D60A69 !important;
+}
+
+.inline-su-link {
+	color: #EA0B73 !important;
+	text-decoration: none;
+}
+
+.inline-su-link:hover {
+	color: #D60A69 !important;
+	text-decoration: none;
+}
+
+.email-link a:hover {
+	color: #0078d4 !important;
+}
+
+.phone-link a:hover {
+	color:var(--website-blue) !important;
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.bg-hero {
+	height: 24rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*
+	Homepage styles
+ */
+.companies-item img {
+	max-height: 8rem;
+}
+
+.bipsync-logo img{
+	background-color: #1a1a1a;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+.color-blue {
+	color: var(--website-blue);
+}
+
+.color-red {
+	color: var(--website-red);
+}
+
+.color-green {
+	color: var(--website-green);
+}
+
+.color-yellow {
+	color: var(--website-yellow);
+}
+
+.btn-link {
+	cursor: pointer;
+	background: linear-gradient(90deg,currentColor 0,currentColor);
+    background-position: left 100%;
+    background-repeat: no-repeat;
+    background-size: 0 6%;
+    font-weight: inherit;
+    padding: 0;
+    text-decoration: none!important;
+    transition-duration: .5s;
+}
+
+.btn-link:hover {
+    background-size: 100% 6%;
+}
+
+.btn-cybersoc-blue {
+	background-color: var(--website-blue);
+}
+
+.color-background-blue {
+	background-image: var(--website-blue);
+}
+
+.color-background-red {
+	background-image: var(--website-red);
+}
+
+.color-background-green {
+	background-image: var(--website-green);
+}
+
+.color-background-yellow {
+	background-image: var(--website-yellow);
+}
+
+/*
+	Committee Section on about us page
+ */
+
+.team-card img {
+	border-radius: 100%;
+	max-width: 85%;
+	padding: 1rem 0;
+}
+
+.team-links {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0.375rem 0 0.25rem;
+}
+
+.team-links a {
+	padding: 0 1rem;
+}

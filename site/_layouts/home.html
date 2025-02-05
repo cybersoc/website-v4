@@ -1,0 +1,9 @@
+--- 
+layout: default
+---
+
+{%- if page.heading -%}
+{% include content_header.html img=page.header_img heading=page.heading subheading=page.subheading %}
+{%- endif -%}
+
+{{content}}

@@ -1,0 +1,34 @@
+- icon: "bi-cash-stack"
+  color: "green"
+  title: "Provide Free Membership"
+  description: "We will continue our efforts to remain a free society, diminishing any barriers to joining the Cyber community."
+
+- icon: "bi-calendar-week"
+  color: "blue"
+  title: "More Socials"
+  description: "After the difficult year we have all had, we are increasing the number of social events! These include alcoholic and non-alcoholic events!"
+
+- icon: "bi-display"
+  color: "red"
+  title: "Strengthen Your Network"
+  description: "We aim to connect you with a wide variety of tech companies, ranging from local start-ups to tech giants!"
+
+- icon: "bi-file-earmark-text"
+  color: "yellow"
+  title: "Boost Your CV"
+  description: "As a member of CyberSoc, you will stand out from the crowd by attending some of our incredible events, such as CTFs, Industry-Led Workshops, & Hackathons!"
+
+- icon: "bi-people-fill"
+  color: "blue"
+  title: "An Inclusive Community"
+  description: "Inclusivity is at the forefront of CyberSoc, we strive continuously to ensure that we remain a society where everyone feels welcome!"
+
+- icon: "bi-award-fill"
+  color: "yellow"
+  title: "Platinum Tier Society"
+  description: "We have been recognised by the Students Union as a Platinum Tier Society! This is the highest award that can be given, and we are on track to receive this again this Year!"
+
+- icon: "bi-clouds-fill"
+  color: "green"
+  title: "Learn About New Tech"
+  description: "At CyberSoc, we are expanding our event line to delve deeper into emerging technologies."

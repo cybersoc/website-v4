@@ -1,0 +1,22 @@
+- name: Admiral
+  image: admiral-logo.png
+- name: Alert Logic
+  image: alert-logic-logo.png
+- name: Amazon
+  image: amazon-logo.png
+- name: AmplyFi
+  image: amplyfi-logo.png
+- name: Astrazeneca
+  image: astrazeneca-logo.png
+- name: bipsync
+  image: bipsync-logo.png
+- name: British Telecom
+  image: bt-logo.png
+- name: Crowdstrike
+  image: crowdstrike-logo.png
+- name: Google
+  image: google-logo.png
+- name: Principality
+  image: principality-logo.png
+- name: PwC
+  image: pwc-logo.png
